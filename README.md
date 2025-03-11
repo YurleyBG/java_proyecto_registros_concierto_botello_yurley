@@ -1,4 +1,4 @@
-# java_proyecto_registros_concierto_botello_yurley
+# proyecto_registros_concierto
 
 se realizaron practicas de crud con java:
 
